@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm [Tomas Carranza Casares](https://github.com/tomasccasares)!
 
-<!--
-**tomasccasares/tomasccasares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science student with a focus on full-stack development. I love creating web and mobile applications. I am also always eager to learn new programming languages and technologies to improve my skills.
 
-Here are some ideas to get you started:
+## Experience
+ - I participated in the development of web and mobile applications.
+ - I worked as a team with other developers to create attractive and functional user interfaces.
+ - Implemented backend solutions for data storage and user management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Links
+
+<a href="https://www.linkedin.com/in/tomas-carranza-casares/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/tomasccasares/?hl=en">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/instagram.svg" />
+</a>
+<a href="mailto:tomicarranza999@gmail.com">
+  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />
+</a>
+<a href="https://github.com/tomasccasares">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />
+</a>
