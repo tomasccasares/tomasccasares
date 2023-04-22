@@ -1,6 +1,6 @@
 # Hi, I'm [Tomas Carranza Casares](https://github.com/tomasccasares)!
 
-I am a computer science student with a focus on full-stack development. I love creating web and mobile applications. I am also always eager to learn new programming languages and technologies to improve my skills.
+I am a computer science student with a focus on full-stack development. I love creating web and mobile applications. I am also always committed to learn new programming languages and technologies to improve my skills.
 
 ## Experience
  - I participated in the development of web and mobile applications.
