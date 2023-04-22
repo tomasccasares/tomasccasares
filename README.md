@@ -7,6 +7,18 @@ I am a computer science student with a focus on full-stack development. I love c
  - I worked as a team with other developers to create attractive and functional user interfaces.
  - Implemented backend solutions for data storage and user management.
 
+## Programming Languages:
+ - JavasCript, TypeScript, Python, SQL.
+
+## FrontEnd Development:
+ - React, Redux, HTML, CSS, Bootstrap, Tailwind CSS, JavasCript, TypeScript.
+
+## Backend Development:
+ - NodeJs, Python, TypeScript.
+
+## Databases:
+ - PostgreSQL, mongoDB(currently learning).
+
 ## Social Links
 
 <a href="https://www.linkedin.com/in/tomas-carranza-casares/">
