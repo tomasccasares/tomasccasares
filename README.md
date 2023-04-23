@@ -1,6 +1,7 @@
 # Hi, I'm [Tomas Carranza Casares](https://github.com/tomasccasares)!
 
 I am a computer science student with a focus on full-stack development. I love creating web and mobile applications. I am also always committed to learn new programming languages and technologies to improve my skills.
+In my free time, i like to explore and learn about new technologies. I am also passionate about logical problem solving and use platforms like Codewars to test my skills. Through challenging coding exercises, I have improved my ability to think creatively to find solutions to complex problems. You can find my profile on Codewars to see some of the logic challenges I have solved: https://www.codewars.com/users/tomasccasares.
 
 ## Experience
  - I participated in the development of web and mobile applications.
