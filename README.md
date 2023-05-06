@@ -15,7 +15,7 @@ In my free time, I like to explore and learn about new technologies. I am also p
  - React, Redux, HTML, CSS, Bootstrap, Tailwind CSS, JavasCript, TypeScript.
 
 ## Backend Development:
- - NodeJs, Python, TypeScript.
+ - NodeJs, Python, TypeScript, PHP(currently learning).
 
 ## Databases:
  - PostgreSQL, mongoDB(currently learning).
