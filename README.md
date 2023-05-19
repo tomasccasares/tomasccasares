@@ -1,6 +1,6 @@
-# Hi, I'm [Tomas Carranza Casares](https://github.com/tomasccasares)!
+# I'm [Tomas Carranza Casares](https://www.tomascarranzacasares.com)!
 
-I am a computer science student with a focus on full-stack development. In my experience as a full stack developer, I have actively participated in the implementation of databases and the creation of user views, which has contributed to the success of several projects. In addition, I like to bring innovative ideas to improve the quality and functionality of the products.<br>
+I am a computer science student with a specialization in full stack development. In my experience as a full stack developer, I have actively participated in the implementation of databases and the creation of user views. In addition, I like to bring innovative ideas to the projects I work on.<br>
 In my free time, I like to explore and learn about new technologies. I am also passionate about logical problem solving and use platforms like Codewars to test my skills. Through challenging coding exercises, I have improved my ability to think creatively to find solutions to complex problems. You can find my profile on Codewars to see some of the logic challenges I have solved: https://www.codewars.com/users/tomasccasares.
 
 ## Experience
@@ -8,17 +8,17 @@ In my free time, I like to explore and learn about new technologies. I am also p
  - I worked as a team with other developers to create attractive and functional user interfaces.
  - Implemented backend solutions for data storage and user management.
 
-## Programming Languages:
- - JavasCript, TypeScript, Python, SQL.
+## Programming Languages/Technologies:
+ - JavasCript, TypeScript, Python, PHP(currently learning), SQL, HTML, CSS, Bootstrap, Tailwind CSS.
 
-## FrontEnd Development:
- - React, Redux, HTML, CSS, Bootstrap, Tailwind CSS, JavasCript, TypeScript.
-
-## Backend Development:
- - NodeJs, Python, TypeScript, PHP(currently learning).
+## Frameworks:
+ - React, Redux, Django.
 
 ## Databases:
- - PostgreSQL, mongoDB(currently learning).
+ - PostgreSQL, mongoDB, DynamoDB.
+
+## Tools/Others:
+ - AWS Services, git, Linux. 
 
 ## Social Links
 
