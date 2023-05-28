@@ -9,16 +9,13 @@ In my free time, I like to explore and learn about new technologies. I am also p
  - Implemented backend solutions for data storage and user management.
 
 ## Programming Languages/Technologies:
- - JavasCript, TypeScript, Python, PHP, SQL, HTML, CSS, Bootstrap, Tailwind CSS.
+ - JavaScript, TypeScript, Python, AWS Services, PHP, SQL, HTML, CSS, Bootstrap, Tailwind CSS.
 
 ## Frameworks:
  - React, Redux, Django, Laravel.
 
 ## Databases:
  - PostgreSQL, mongoDB, DynamoDB.
-
-## Tools/Others:
- - AWS Services, git, Linux. 
 
 ## Social Links
 
