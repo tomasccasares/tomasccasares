@@ -4,10 +4,10 @@ I am a computer science student with a specialization in Full-Stack development.
 In my free time, I like to explore and learn about new technologies. I am also passionate about logical problem solving and use platforms like Codewars to test my skills. Through challenging coding exercises, I have improved my ability to think creatively to find solutions to complex problems. You can find my profile on Codewars to see some of the logic challenges I have solved: https://www.codewars.com/users/tomasccasares.
 
 ## Programming Languages/Technologies:
- - JavaScript, TypeScript, Python, AWS Services, SQL, HTML, CSS, Bootstrap, Tailwind CSS, Docker.
+ - JavaScript, TypeScript, Python, PHP, AWS Services, SQL, MongoDB, HTML, CSS, Tailwind CSS, Docker, AWS.
 
 ## Frameworks:
- - React, Redux, Django, FastAPI, Flask.
+ - React, Redux, Next.js, Nuxt.js, Django, FastAPI, Flask, Laravel.
 
 ## Databases:
  - PostgreSQL, mongoDB, DynamoDB.
